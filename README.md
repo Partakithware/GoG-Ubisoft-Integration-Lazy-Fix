@@ -1,5 +1,5 @@
 # GoG-Ubisoft-Integration-Lazy-Fix ![Downloads](https://img.shields.io/github/downloads/Partakith/goglazyintegrationubisoft/total.svg)
-Reposted as I lost access to my other account.
+Reposted as I lost access to my other account, I added a total downloads tracker!
 
 The Click and Go Integration Fix for Ubisoft - GOG Plugin Integration
 
