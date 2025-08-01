@@ -3,7 +3,7 @@ Reposted as I lost access to my other account.
 
 The Click and Go Integration Fix for Ubisoft - GOG Plugin Integration
 
-
+[Download - Click Here](https://github.com/Partakith/goglazyintegrationubisoft/releases/tag/gog%2Cgalaxy%2Cplugin%2Clazyfix%2Cubisoft)
 
 Steps. Make sure you have .NET 4.7.2 or just attempt to open this application if you aren't sure. Attempt the Ubisoft Connect GOG Integration, a.k.a. You've done everything in GoG then it failed to connect after login. Open this Application and press the Apply button, it should tell you success, done. In GoG press the connect button again and accept terms, it should now work!
 
